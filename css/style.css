@@ -1,0 +1,71 @@
+
+.bg-gradient4 {
+    transition: all 1s ease;
+    background: #F6682F;
+    background: linear-gradient(180deg, #F6682F 0%, #F6682F 80%, #F6682F 100%);
+    padding: 16px 20px;
+    border: none;
+}
+
+
+.form-group label {
+    text-transform: capitalize;
+    font-weight: bold;
+    color: #f6682f;
+}
+
+.cus-btn{
+	border-radius: 70px;
+	display: inline-block;
+	margin: 20px;
+	font-weight: 500;
+	font-size: 16px;
+	letter-spacing: 0.07em;
+	text-transform: uppercase;
+	line-height: 24px;
+	color: #ffffff;
+	border: none;
+	
+}
+
+.cus-btn-pos {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+.m-title {
+	letter-spacing: 0.07em;
+	text-transform: uppercase;
+	line-height: 24px;
+	color: white;
+}
+
+.m-header{
+	background: #F6682F;
+    background: linear-gradient(180deg, #F6682F 0%, #F6682F 80%, #F6682F 100%);
+    padding: 16px 20px;
+}
+
+.cus-btn:hover {
+    color: #ffffff;
+    cursor: pointer;
+    background: linear-gradient(90deg, #F6682F 0%, #F6682F 80%, #F6682F 100%);
+    box-shadow: 1px 3px 11px grey;
+
+}
+
+.dash{
+	    transition: all 1s ease;
+    background: #F6682F;
+    background: linear-gradient(180deg, #F6682F 0%, #F6682F 80%, #F6682F 100%);
+    padding: 16px 20px;
+    border-radius: 10px;
+    display: inline-block;
+    font-weight: 500;
+    font-size: 16px;
+    letter-spacing: 0.07em;
+    text-transform: uppercase;
+    line-height: 24px;
+    color: #ffffff;
+}
